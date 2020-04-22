@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoogleLocationSample</string>
+    <string name="tracker_display_name">Sample</string>
+    <string name="remove">REMOVE</string>
+    <string name="title_tiles">Posted tile id :</string>
+    <string name="stress_trend">Stress Trend</string>
+    <string name="stress_track">Stress Track</string>
+    <string name="water_trend">Water Trend</string>
+    <string name="water_track">Water Track</string>
+    <string name="water_target">Water Target</string>
+</resources>

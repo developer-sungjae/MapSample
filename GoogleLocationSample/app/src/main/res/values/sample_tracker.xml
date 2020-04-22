@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sample_tracker_manifest">
+{
+    \"tracker\" : {
+        \"id\" : \"tracker.sample\",
+        \"display-name\" : \"tracker_display_name\",
+        \"icon\" : \"tracker_icon\",
+        \"controller\" : \"local.sapl.dev.shealth.service.MyTracker\"
+    }
+}        
+    </string>
+</resources>
